@@ -22,5 +22,6 @@
     <modules>
         <module>register-cloud</module>
         <module>log-cloud</module>
+        <module>gateway-cloud</module>
     </modules>
 </project>
